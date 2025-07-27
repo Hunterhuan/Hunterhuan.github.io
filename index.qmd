@@ -34,9 +34,9 @@ about:
     # - icon: brands home
     #   text: 连享会
     #   href: https://www.lianxh.cn
-    - icon: 📝
-      text: CV
-      href: CV.pdf  
+    # - icon: 📝
+    #   text: CV
+    #   href: docs/CV.pdf  
 ---
 
 ::: {#hero-heading}
