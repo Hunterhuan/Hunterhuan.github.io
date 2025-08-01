@@ -60,18 +60,18 @@ Note: **I am currently looking for full-time industry job** (e.g. Speech Large L
 - Oct 2019 - Jau 2020: AI Lab, ByteDance, Shanghai
 
 ## Services
-Reviewer of
+Served as Reviewer of
+
 - **Journal**: SPL, SP, SIVP 
 - **Conferences**: NeurIPS, ICASSP, Interspeech, ASRU, SLT, IJCNN, NCMMSC, ISCSLP
 
 ## Awards
-- Foundation of Hunyuan Large Model (100k RMB) <p align="right">2024</p>
-- ISCSLP Best Student Paper <p align="right">2024</p>
-- Huawei Scholarship <p align="right">2024</p>
-- Huawei Scholarship <p align="right">2022</p>
-- Huawei Scholarship <p align="right">2022</p>
-- Outstanding Graduate of Shanghai Jiao Tong University <p align="right">2020</p>
-- National Encouragement scholarship <p align="right">2019</p>
+- 2024, Foundation of Hunyuan Large Model (100k RMB)
+- 2024, ISCSLP Best Student Paper
+- 2024, Huawei Scholarship
+- 2022, Huawei Scholarship
+- 2020, Outstanding Graduate of Shanghai Jiao Tong University
+- 2019, National Encouragement scholarship
 
 
 :::
