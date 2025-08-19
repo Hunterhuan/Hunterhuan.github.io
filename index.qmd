@@ -62,8 +62,8 @@ Note: **I am currently looking for full-time industry job** (e.g. Speech Large L
 ## Services
 Served as Reviewer of
 
-- **Journal**: SPL, SP, SIVP 
-- **Conferences**: NeurIPS, ICASSP, Interspeech, ASRU, SLT, IJCNN, NCMMSC, ISCSLP
+- **Journal**: TASLP, SPL, SP, SIVP 
+- **Conferences**: NeurIPS, ICASSP, INTERSPEECH, ASRU, SLT, IJCNN, ISCSLP, NCMMSC
 
 ## Awards
 - 2024, Foundation of Hunyuan Large Model (100k RMB)

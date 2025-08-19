@@ -15,15 +15,15 @@ editor: visual
 
 ## Under Review
 
-- <u>**Bing Han**</u>, Anbai Jiang, Xinhu Zheng, Wei-Qiang Zhang, Jia Liu, Pingyi Fan, and Yanmin Qian. Exploring Self-Supervised Audio Models for Generalized Anomalous Sound Detection. Submitted to TASLP
-- Haiyang Sun, <u>**Bing Han**</u>, Zheng Lian, leying zhang, Chenda Li, Chenyang Le, Ye Bai, Yi Zhao, Yanmin Qian. ContextSpeech: A Large-Scale Real-Human Speech Corpus with Context-Aware Descriptions. Submitted to NeurIPS.
-- Chenyang Le, <u>**Bing Han**</u>, Jinshun Li, Chen Songyong, Yanmin Qian. SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation. Submitted to NeurIPS.
-- Pingyi Fan, Anbai Jiang, Shuwei Zhang, Zhiqiang Lv, <u>**Bing Han**</u>, Xinhu Zheng, etc.. FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation. [Paper](https://arxiv.org/pdf/2507.16696)
-- Haiyang Sun, Shujie Hu, Shujie Liu, Lingwei Meng, Hui Wang, <u>**Bing Han**</u>, etc.. Zero-Shot Streaming Text to Speech Synthesis with Transducer and Auto-Regressive Modeling. [Paper](https://arxiv.org/pdf/2505.19669)
+-  Haiyang Sun, <u>**Bing Han**</u>, Zheng Lian, leying zhang, Chenda Li, Chenyang Le, Ye Bai, Yi Zhao, Yanmin Qian. ContextSpeech: A Large-Scale Real-Human Speech Corpus with Context-Aware Descriptions. Submitted to NeurIPS.
+-  Chenyang Le, <u>**Bing Han**</u>, Jinshun Li, Chen Songyong, Yanmin Qian. SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation. Submitted to NeurIPS.
+-  Pingyi Fan, Anbai Jiang, Shuwei Zhang, Zhiqiang Lv, <u>**Bing Han**</u>, Xinhu Zheng, etc.. FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation. [Paper](https://arxiv.org/pdf/2507.16696)
+-  Haiyang Sun, Shujie Hu, Shujie Liu, Lingwei Meng, Hui Wang, <u>**Bing Han**</u>, etc.. Zero-Shot Streaming Text to Speech Synthesis with Transducer and Auto-Regressive Modeling. [Paper](https://arxiv.org/pdf/2505.19669)
 
 
 ## Journals
 
+-  <u>**Bing Han**</u>, Anbai Jiang, Xinhu Zheng, Wei-Qiang Zhang, Jia Liu, Pingyi Fan, and Yanmin Qian. Exploring Self-Supervised Audio Models for Generalized Anomalous Sound Detection. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [Paper](https://arxiv.org/pdf/2508.12230)
 -  <u>**Bing Han**</u>, Zhengyang Chen, Yanmin Qian. Self-supervised learning with cluster-aware-dino for high-performance robust speaker verification. IEEE/ACM Transactions on Audio, Speech, and Language Processing 32, 529-541. [Paper](https://arxiv.org/pdf/2304.05754)
 -  Zhengyang Chen, <u>**Bing Han**</u>, Shuai Wang, Yanmin Qian. Attention-based encoder-decoder end-to-end neural diarization with embedding enhancer. IEEE/ACM Transactions on Audio, Speech, and Language Processing 32, 1636-1649. [Paper](https://arxiv.org/pdf/2309.06672)
 -  Shuai Wang, Zhengyang Chen, <u>**Bing Han**</u>, Hongji Wang, Chengdong Liang, Binbin Zhang, Xu Xiang, Wen Ding, Johan Rohdin, Anna Silnova, Yanmin Qian, Haizhou Li. Advancing speaker embedding learning: Wespeaker toolkit for research and production. Speech Communication 162, 103104. [Paper](https://www.fit.vut.cz/research/group/speech/public/publi/2024/wang_speech%20communication_2024.pdf)
