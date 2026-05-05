@@ -16,7 +16,6 @@ editor: visual
 ## Under Review
 
 -  <u>**Bing Han**</u>\*, Chushu Zhou\*, Yifan Yang, Wei Wang, Chenda Li, Wangyou Zhang, Yanmin Qian. Representation-Regularized Convolutional Audio Transformer for Audio Understanding. Submitted to IJCAI. [Paper](https://arxiv.org/pdf/2601.21612)
--  Yifan Yang, Hui Wang, <u>**Bing Han**</u>, Shujie Liu, Jinyu Li, Yong Qin, Xie Chen. Towards Responsible Evaluation for Text-to-Speech. Arxiv. [Paper](https://arxiv.org/pdf/2510.06927)
 -  Haiyang Sun, <u>**Bing Han**</u>, Zheng Lian, leying zhang, Chenda Li, Chenyang Le, Ye Bai, Yi Zhao, Yanmin Qian. ContextSpeech: A Large-Scale Real-Human Speech Corpus with Context-Aware Descriptions. Submitted to NeurIPS.
 -  Pingyi Fan, Anbai Jiang, Shuwei Zhang, Zhiqiang Lv, <u>**Bing Han**</u>, Xinhu Zheng, etc.. FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation. [Paper](https://arxiv.org/pdf/2507.16696)
 -  Haiyang Sun, Shujie Hu, Shujie Liu, Lingwei Meng, Hui Wang, <u>**Bing Han**</u>, etc.. Zero-Shot Streaming Text to Speech Synthesis with Transducer and Auto-Regressive Modeling. [Paper](https://arxiv.org/pdf/2505.19669)
@@ -34,6 +33,7 @@ editor: visual
 
 ## Conferences
 
+-  Yifan Yang, Hui Wang, <u>**Bing Han**</u>, Shujie Liu, Jinyu Li, Yong Qin, Xie Chen. Towards Responsible Evaluation for Text-to-Speech. ICLR 2026 Position Track. [Paper](https://arxiv.org/pdf/2510.06927)
 -  Haiyang Sun, Chenyang Le, Wei Wang, Leying Zhang, Chuang Li, <u>**Bing Han**</u>, Chenda Li, Mengxiao Bi, Yanmin Qian. Beyond Sentence-level Labels: Integrating Conversational Context and Personal Experience for Natural Emotional Expression. ACL 2026 Findings. [Paper](https://openreview.net/forum?id=ZvtUaFw32B)
 -  Yifan Yang\*, <u>**Bing Han**</u>\*, Hui Wang, Wei Wang, Ziyang Ma, Long Zhou, Zengrui Jin, Guanrou Yang, Tianrui Wang, Xu Tan, Xie Chen. Towards Fine-Grained and Multi-Granular Contrastive Language-Speech Pre-training. ACL 2026 Main. [Paper](https://arxiv.org/pdf/2601.03065)
 -  Wenrui Liang, Yihong Qiu, Anbai Jiang, <u>**Bing Han**</u>, Tianyu Liu, Xinhu Zheng, Pingyi Fan, Cheng Lu, Jia Liu, Wei-Qiang Zhang. Refgen: Reference-Guided Synthetic Data Generation for Anomalous Sound Detection. ICASSP 2026. [Paper](https://ieeexplore.ieee.org/abstract/document/11461896)
