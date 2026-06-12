@@ -15,6 +15,7 @@ editor: visual
 
 ## Under Review
 
+-  Hui Wang, Yifan Yang, Zeyue Tian, Yuhang Jia, Jinghua Zhao, Long Zhou, <u>**Bing Han**</u>, Cheng Liu, Jiaming Zhou, Geng Tu, Yong Qin. UAT: Unified Audio-Text Diffusion for Audio Generation, Editing, and Captioning. [Paper](https://arxiv.org/pdf/2606.04939)
 -  <u>**Bing Han**</u>\*, Chushu Zhou\*, Yifan Yang, Wei Wang, Chenda Li, Wangyou Zhang, Yanmin Qian. Representation-Regularized Convolutional Audio Transformer for Audio Understanding. Submitted to IJCAI. [Paper](https://arxiv.org/pdf/2601.21612)
 -  Haiyang Sun, <u>**Bing Han**</u>, Zheng Lian, leying zhang, Chenda Li, Chenyang Le, Ye Bai, Yi Zhao, Yanmin Qian. ContextSpeech: A Large-Scale Real-Human Speech Corpus with Context-Aware Descriptions. under-review.
 -  Haiyang Sun, Shujie Hu, Shujie Liu, Lingwei Meng, Hui Wang, <u>**Bing Han**</u>, etc.. Zero-Shot Streaming Text to Speech Synthesis with Transducer and Auto-Regressive Modeling. [Paper](https://arxiv.org/pdf/2505.19669)
