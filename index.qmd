@@ -45,7 +45,7 @@ I am a PhD student (expected to graduate in 2026.9) of [AudioCC Lab](https://aud
 
 My research focus on Speech Synthesis, Sound Analysis, Speaker Verification, Anomalous Sound Detection and so on.
 
-Note: **I am currently looking for full-time industry job** (e.g. Speech Large Laguage Models, Audio Generation, Audio Representation and so on). Please feel free to contact me.
+Note: **I am currently looking for full-time industry job** (e.g. Audio Large Laguage Models, Audio Generation, Audio Representation and so on). Please feel free to contact me.
 
 
 ## Education Background
@@ -54,11 +54,11 @@ Note: **I am currently looking for full-time industry job** (e.g. Speech Large L
 - 2016-2020: Obtain Bachelor's Degree of Engineering, Shanghai Jiao Tong University, China, majoring in Computer Science of **IEEE honor class**.
 
 ## Industry Experience
-- Feb 2026 - Now: Qwen Omni Team, Alibaba, Hangzhou
+- Feb 2026 - Now: Qwen Omni Team, Alibaba, Hangzhou -> Shanghai -> Beijing(Soon)
 - May 2025 - Dec 2025: Hunyuan Lab, Tencent, Beijing
 - Aug 2023 - Apr 2024: Microsoft Research Asia (MSRA), MicroSoft, Beijing
 - Feb 2023 - Jul 2023: Speech, Audio and Music Intelligence (SAMI), ByteDance, Shanghai
-- Oct 2019 - Jau 2020: AI Lab, ByteDance, Shanghai
+- Oct 2019 - Jan 2020: AI Lab, ByteDance, Shanghai
 
 ## Services
 Served as Reviewer of
