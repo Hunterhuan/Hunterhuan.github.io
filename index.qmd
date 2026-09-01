@@ -43,20 +43,25 @@ about:
 
 I am a PhD student (expected to graduate in 2026.9) of [AudioCC Lab](https://audiocc.sjtu.edu.cn) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Speech and Audio Understanding and Generation, Supervised by Prof. [Yanmin Qian](https://audiocc.sjtu.edu.cn/uploads/members/yanmin-qian-Resume.pdf). Before that, I received the Bachelor's Degree from Shanghai Jiao Tong University in 2020.
 
-My research focus on Speech Synthesis, Sound Analysis, Speaker Verification, Anomalous Sound Detection and so on.
+My research focuses on Speech Synthesis, Sound Analysis, Speaker Verification, Anomalous Sound Detection and so on.
 
-Note: **I am currently looking for full-time industry job** (e.g. Audio Large Laguage Models, Audio Generation, Audio Representation and so on). Please feel free to contact me.
+Note: **I am currently looking for full-time industry job** (e.g. Audio Large Language Models, Audio Generation, Audio Representation and so on). Please feel free to contact me.
 
+## News
+
+-   **[2026.08]** Contributed to the **LUNA-TTS Family Technical Report**, which presents a speech generation system focused on natural and expressive speech. Luna-TTS achieved the top rating in Hugging Face TTS Arena and ranked third in Artificial Analysis's Provider Voice TTS benchmark. [Paper](https://arxiv.org/pdf/2608.11593)
+-   **[2026.04]** Contributed to the **Qwen3.5-Omni Technical Report**, which presents a large-scale omni-modal model for audio-visual understanding, reasoning, interaction, and multilingual speech generation. [Paper](https://arxiv.org/pdf/2604.15804)
+-   **[2026.02]** Joined the **Qwen Omni Team** at Alibaba.
 
 ## Education Background
-- 2022-Now(2026.9 Expected): Master's to Ph.D. in Computer Science, Shanghai Jiao Tong University, China, focusing on audio generation, analysis.
-- 2020-2022: Purchase Master in Computer Science, Shanghai Jiao Tong University, China, specializing in Speaker Recognition.
+- 2022-present (expected graduation: September 2026): Master's to Ph.D. in Computer Science, Shanghai Jiao Tong University, China, focusing on audio generation, analysis.
+- 2020-2022: Pursued a Master's degree in Computer Science, Shanghai Jiao Tong University, China, specializing in Speaker Recognition.
 - 2016-2020: Obtain Bachelor's Degree of Engineering, Shanghai Jiao Tong University, China, majoring in Computer Science of **IEEE honor class**.
 
 ## Industry Experience
 - Feb 2026 - Now: Qwen Omni Team, Alibaba, Hangzhou -> Shanghai -> Beijing(Soon)
 - May 2025 - Dec 2025: Hunyuan Lab, Tencent, Beijing
-- Aug 2023 - Apr 2024: Microsoft Research Asia (MSRA), MicroSoft, Beijing
+- Aug 2023 - Apr 2024: Microsoft Research Asia (MSRA), Microsoft, Beijing
 - Feb 2023 - Jul 2023: Speech, Audio and Music Intelligence (SAMI), ByteDance, Shanghai
 - Oct 2019 - Jan 2020: AI Lab, ByteDance, Shanghai
 
